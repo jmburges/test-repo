@@ -1,3 +1,3 @@
 Hello this is my first commit
 
-My Name is Chris
+My Name is Joe
